@@ -1,4 +1,4 @@
-A group of test documents containing combinations of macros, possibliy malicious macros (auto-open), and macros containing the IECAR virus.
+A group of test documents containing combinations of macros, possibly malicious macros (auto-open), and macros containing the IECAR virus.
 
 
 
